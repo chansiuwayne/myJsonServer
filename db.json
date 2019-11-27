@@ -1,0 +1,17 @@
+{
+  "star of month": [{
+      "id": "SEP",
+      "title": "Star of SEP",
+      "ctitle": " 九月之星",
+      "monthImage": "http://www.ypicallmc.edu.hk/images/starofmonth/2019-2020/sep/1.jpg",
+      "students": []
+    },
+    {
+      "id": "OCT",
+      "title": "Star of OCT",
+      "ctitle": " 十月之星",
+      "monthImage": "http://www.ypicallmc.edu.hk/images/starofmonth/2019-2020/oct/1.jpeg",
+      "students": []
+    }
+  ]
+}
